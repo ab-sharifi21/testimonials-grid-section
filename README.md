@@ -5,5 +5,5 @@
 ## Welcome! 👋
 Frontend Mentor chanllenge done with css grid.
 
-Check it out here! [Frontend Mentor - Testimonials grid section](https://www.frontendmentor.io)
+Check it out here! [Frontend Mentor - Testimonials grid section](https://testimonials-grid-section-ab.netlify.app/)
 
